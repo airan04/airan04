@@ -6,7 +6,7 @@ Full Stack developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [airanrishi@gmail.com](mailto:airanrishi@gmail.com)
-* 🧠  I'm learning React and Web3
+* 🧠  I'm learning React and NextJs
 
 ### Skills
 
