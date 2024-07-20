@@ -6,7 +6,7 @@ Full Stack developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rishiairan04@gmail.com](mailto:rishiairan04@gmail.com)
-* 🧠  I'm learningvNextJs and Python
+* 🧠  I'm learning NextJs and Python
 
 ### Skills
 
