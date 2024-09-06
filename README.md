@@ -30,6 +30,10 @@ Full Stack developer
 
 <p align="left"> <a href="https://www.github.com/airan04" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rishi-airan-b49605212/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AiranRishi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+
+### Roadmap
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66dabe24c46f68d0528d300f?variant=dark" alt="roadmap.sh"/></a>
+
 ### Badges
 
 <b>My GitHub Stats</b>
